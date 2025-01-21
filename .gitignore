@@ -4,3 +4,5 @@ bin/
 .settings/ 
 *.class 
 theproject.zip 
+README.md 
+.gitignore 
