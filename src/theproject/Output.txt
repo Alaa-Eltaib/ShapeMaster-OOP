@@ -1,0 +1,4 @@
+Circle [radius=10.0,area=314.1592653589793]
+Cube   [side=10.0,area=600.0, volume=1000.0]
+Circle [radius=10.0,area=314.1592653589793]
+The Total Area = 1228.3185307179588
