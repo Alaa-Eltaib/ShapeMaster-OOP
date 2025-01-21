@@ -1,9 +1,9 @@
 # ShapeMaster-OOP
 
-ShapeMaster-OOP is a Java-based project designed to represent 2D and 3D geometric shapes (such as circles and cubes) and calculate their properties, including area, perimeter, and volume. The project also includes functionality for drawing and editing shapes, as well as reading and processing data from a text file.
+ShapeMaster-OOP is a Java-based project designed to represent 2D and 3D geometric shapes (such as circles and cubes) and calculate their properties, including area, perimeter, and volume. as well as reading and processing data from a text file.
 
 ---
-a
+
 ## Features
 
 - 2D Shapes: Support for shapes like circles.
@@ -35,8 +35,6 @@ The results will be saved in Output.txt.
 
 
 # ShapeMaster-OOP
-
-ShapeMaster-OOP is a Java-based project designed to represent 2D and 3D geometric shapes (such as circles and cubes) and calculate their properties, including area, perimeter, and volume. The project also includes functionality for drawing and editing shapes, as well as reading and processing data from a text file.
 
 ---
 
