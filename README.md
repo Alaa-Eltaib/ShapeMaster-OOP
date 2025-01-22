@@ -32,29 +32,6 @@ java theproject.FileBonus
 The results will be saved in Output.txt.
 
 
-
-
-# ShapeMaster-OOP
-
----
-
-## Features
-
-- 2D Shapes: Support for shapes like circles.
-- 3D Shapes: Support for shapes like cubes.
-- Calculations: Calculate area, perimeter, and volume.
-- File I/O: Read shape data from a text file and write results to another file.
-
----
-
-## How to Use
-
-### Running DrawableTest
-1. Provide input via the command line:
-   ```bash
-   java theproject.DrawableTest 2 Circle 5 Cube 3
-The program will display shape details and the total area.
-
 ## FileBonus Details
 
 The FileBonus class reads shape data from Input.txt, processes it, and writes the results to Output.txt. Here’s how it works:
